@@ -87,11 +87,11 @@ if (!("remotes" %in% pkg_installed)) {
 }
 if (project == "rProject") {
   if (!("rProject" %in% pkg_installed)) {
-   remotes::install_github(
-     "ijapesigan/rProject",
-     quiet = TRUE,
-     lib = dot_library_folder
-   )
+    remotes::install_github(
+      "ijapesigan/rProject",
+      quiet = TRUE,
+      lib = dot_library_folder
+    )
   }
 } else {
   remotes::install_github(
