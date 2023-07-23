@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: quarto
+
+book:
+  title: "lib-2010-2019-book"
+  author: "Ivan Jacob Agaloos Pesigan"
+  date: today
+  search: true
+  repo-url: https://github.com/ijapesigan/lib-2010-2019-book
+  repo-actions: [edit]
+  site-url: https://ijapesigan.github.io/lib-2010-2019-book/index.html
+  sidebar:
+    collapse-level: 3
+    pinned: true
+  chapters:
+    - index.qmd
+  appendices:
+    - .setup/quarto/session/session.qmd
+bibliography: .setup/quarto/bib/quarto.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+
+format:
+  html:
+    theme:
+      - flatly
+      - .setup/quarto/scss/custom.scss
+    number-sections: false
