@@ -1,3 +1,0 @@
-# Eddelbuettel-2013
-r
-r-packages
