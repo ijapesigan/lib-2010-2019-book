@@ -12,11 +12,14 @@
 #' | `pkg_ver`        | Packages with specific version.                     |
 #' | `ver`            | Version corresponding to packages in `pkg_ver`.     |
 #' | `ignore`         | Items to add to `.Rbuildignore`.                    |
+#' | `license`        | Options are `"mit"`, `"gpl3"`, or `NULL`            |
 #'
 
 project <- "lib-2010-2019-book"
 
-pkg_cran <- c()
+pkg_cran <- c(
+  "RefManageR"
+)
 
 pkg_github <- c(
   "ijapesigan/rProject"
