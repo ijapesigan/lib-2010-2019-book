@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "lib-2010-2019-book",
     "section": "",
-    "text": "Eddelbuettel, D. (2013). Seamless R and\nC++ integration with Rcpp. Springer New\nYork. https://doi.org/10.1007/978-1-4614-6868-4"
+    "text": "Eddelbuettel, D. (2013). Seamless R and\nC++ integration with Rcpp. Springer New\nYork. https://doi.org/10.1007/978-1-4614-6868-4\n\n\nLittle, R. J. A., & Rubin, D. B. (2019). Statistical analysis\nwith missing data (3rd ed.). Wiley. https://doi.org/10.1002/9781119482260\n\n\nvan Buuren, S. (2018). Flexible imputation of missing data (2nd\ned.). Chapman; Hall/CRC. https://doi.org/10.1201/9780429492259"
   },
   {
     "objectID": ".setup/quarto/tags/tags.html",
     "href": ".setup/quarto/tags/tags.html",
     "title": "Library Tags",
     "section": "",
-    "text": "key\nannotation\nkeywords\n\n\n\n\nEddelbuettel-2013\nr, r-packages\nNULL"
+    "text": "key\nannotation\nkeywords\n\n\n\n\nEddelbuettel-2013\nEddelbuettel-2013\nr, r-packages\nNULL\n\n\nLittle-Rubin-2019\nLittle-Rubin-2019\nNULL\nMathematical statistics, Mathematical statistics–Problems, exercises, etc., Missing observations (Statistics), Missing observations (Statistics)–Problems, exercises, etc.\n\n\nvanBuuren-2018\nvanBuuren-2018\nNULL\nMultivariate analysis, Multiple imputation (Statistics), Missing observations (Statistics)"
   },
   {
     "objectID": ".setup/quarto/session/session.html#session",
