@@ -50,6 +50,13 @@ missing data* (3rd ed.). Wiley. <https://doi.org/10.1002/9781119482260>
 
 </div>
 
+<div id="ref-Millsap-2011" class="csl-entry">
+
+Millsap, R. E. (2011). *Statistical approaches to measurement
+invariance*. Routledge. <https://doi.org/10.4324/9780203821961>
+
+</div>
+
 <div id="ref-Pawitan-2013" class="csl-entry">
 
 Pawitan, Y. (2013). *In all likelihood: Statistical modelling and
