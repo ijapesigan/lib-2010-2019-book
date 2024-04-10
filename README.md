@@ -1,7 +1,7 @@
 lib-2010-2019-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-12
+2024-04-10
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -17,6 +17,15 @@ Check](https://github.com/ijapesigan/lib-2010-2019-book/actions/workflows/shellc
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 line-spacing="2">
+
+<div id="ref-Bolger-Laurenceau-2013" class="csl-entry">
+
+Bolger, N., & Laurenceau, J.-P. (2013). *Intensive longitudinal methods:
+An introduction to diary and experience sampling research: An
+introduction to diary and experience sampling research*. Guilford
+Publications.
+
+</div>
 
 <div id="ref-Eddelbuettel-2013" class="csl-entry">
 
@@ -47,6 +56,14 @@ Routledge/Taylor & Francis Group.
 
 Little, R. J. A., & Rubin, D. B. (2019). *Statistical analysis with
 missing data* (3rd ed.). Wiley. <https://doi.org/10.1002/9781119482260>
+
+</div>
+
+<div id="ref-Mehl-Conner-Csikszentmihalyi-2011" class="csl-entry">
+
+Mehl, M. R., Conner, T. S., & Csikszentmihalyi, Mihaly. (2011).
+*Handbook of research methods for studying daily life*. Guilford
+Publications.
 
 </div>
 
