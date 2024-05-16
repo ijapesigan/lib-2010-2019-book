@@ -1,7 +1,7 @@
 lib-2010-2019-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-04-10
+2024-05-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -24,6 +24,16 @@ Bolger, N., & Laurenceau, J.-P. (2013). *Intensive longitudinal methods:
 An introduction to diary and experience sampling research: An
 introduction to diary and experience sampling research*. Guilford
 Publications.
+
+</div>
+
+<div id="ref-Deboeck-Preacher-Cole-2018" class="csl-entry">
+
+Deboeck, P. R., Preacher, K. J., & Cole, D. A. (2018). Mediation
+modeling: Differing perspectives on time alter mediation inferences. In
+*Continuous time modeling in the behavioral and related sciences* (pp.
+179–203). Springer International Publishing.
+<https://doi.org/10.1007/978-3-319-77219-6_8>
 
 </div>
 
@@ -74,6 +84,15 @@ invariance*. Routledge. <https://doi.org/10.4324/9780203821961>
 
 </div>
 
+<div id="ref-Oravecz-Wood-Ram-2018" class="csl-entry">
+
+Oravecz, Z., Wood, J., & Ram, N. (2018). On fitting a continuous-time
+stochastic process model in the Bayesian framework. In *Continuous time
+modeling in the behavioral and related sciences* (pp. 55–78). Springer
+International Publishing. <https://doi.org/10.1007/978-3-319-77219-6_3>
+
+</div>
+
 <div id="ref-Oud-Delsing-2010" class="csl-entry">
 
 Oud, J. H. L., & Delsing, M. J. M. H. (2010). Continuous time modeling
@@ -88,6 +107,16 @@ Satorra (Eds.), *Longitudinal research with latent variables* (pp.
 
 Pawitan, Y. (2013). *In all likelihood: Statistical modelling and
 inference using likelihood*. Oxford University Press.
+
+</div>
+
+<div id="ref-Ryan-Kuiper-Hamaker-2018" class="csl-entry">
+
+Ryan, O., Kuiper, R. M., & Hamaker, E. L. (2018). A continuous-time
+approach to intensive longitudinal data: What, why, and how? In
+*Continuous time modeling in the behavioral and related sciences* (pp.
+27–54). Springer International Publishing.
+<https://doi.org/10.1007/978-3-319-77219-6_2>
 
 </div>
 
