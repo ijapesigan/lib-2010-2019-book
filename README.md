@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2010-2019-book/actions/workflows/shellc
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Bolger-Laurenceau-2013" class="csl-entry">
 
