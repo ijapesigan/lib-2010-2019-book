@@ -1,7 +1,7 @@
 lib-2010-2019-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-16
+2024-05-21
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -48,6 +48,13 @@ Springer New York. <https://doi.org/10.1007/978-1-4614-6868-4>
 
 Enders, C. K. (2010). *Applied missing data analysis*. Guilford
 Publications.
+
+</div>
+
+<div id="ref-Flor-Turk-2011" class="csl-entry">
+
+Flor, H., & Turk, D. C. (2011). *Chronic pain: An integrated
+biobehavioral approach*. IASP Press.
 
 </div>
 
