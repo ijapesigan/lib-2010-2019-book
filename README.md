@@ -1,7 +1,7 @@
 lib-2010-2019-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-21
+2024-05-22
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -132,6 +132,15 @@ approach to intensive longitudinal data: What, why, and how? In
 Shumway, R. H., & Stoffer, D. S. (2017). *Time series analysis and its
 applications: With R examples*. Springer International Publishing.
 <https://doi.org/10.1007/978-3-319-52452-8>
+
+</div>
+
+<div id="ref-Turk-Monarch-2018" class="csl-entry">
+
+Turk, D. C., & Monarch, E. S. (2018). Biopsychosocial perspective on
+chronic pain. In D. C. Turk & R. J. Gatchel (Eds.), *Psychological
+approaches to pain management: A practitioner’s handbook* (Third
+edition). The Guilford Press.
 
 </div>
 
