@@ -139,8 +139,8 @@ applications: With R examples*. Springer International Publishing.
 
 Turk, D. C., & Monarch, E. S. (2018). Biopsychosocial perspective on
 chronic pain. In D. C. Turk & R. J. Gatchel (Eds.), *Psychological
-approaches to pain management: A practitioner’s handbook* (Third
-edition). The Guilford Press.
+approaches to pain management: A practitioner’s handbook* (3rd ed.). The
+Guilford Press.
 
 </div>
 
