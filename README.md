@@ -1,10 +1,9 @@
 lib-2010-2019-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-06-27
+2024-07-08
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -24,6 +23,13 @@ entry-spacing="0" line-spacing="2">
 Bolger, N., & Laurenceau, J.-P. (2013). *Intensive longitudinal methods:
 An introduction to diary and experience sampling research*. Guilford
 Publications.
+
+</div>
+
+<div id="ref-Cheung-2015" class="csl-entry">
+
+Cheung, M. W.-L. (2015). *Meta‐analysis: A structural equation modeling
+approach*. Wiley. <https://doi.org/10.1002/9781118957813>
 
 </div>
 
