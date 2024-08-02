@@ -1,10 +1,9 @@
 lib-2010-2019-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-25
+2024-08-02
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
